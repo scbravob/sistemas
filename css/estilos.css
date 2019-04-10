@@ -1,0 +1,89 @@
+body {
+	background: #f2f2f2;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	margin-top: 30px;
+}
+
+header .nav {
+	min-height: 80px;
+	overflow: hidden;
+	background: #fff;
+}
+
+/* -- MENU -- */
+
+header .menu {
+	padding: 0;
+}
+
+header .menu a {
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	padding: 0 30px;
+}
+
+header .menu a div span {
+	font-weight: 600;
+}
+
+header .menu .c-1 {
+	background: #3da5a2;
+}
+
+header .menu .c-2 {
+	background: #005385;
+}
+
+header .menu .c-3 {
+	background: #003855;
+}
+
+header .menu .c-4 {
+	background: #E3B725;
+}
+
+header .menu .c-5 {
+	background: #D1752D;
+}
+
+header .menu .c-1:hover {
+	background: #1ba0ef;
+}
+
+header .menu .c-2:hover {
+	background: #00426a;
+}
+
+header .menu .c-3:hover {
+	background: #002d44;
+}
+
+header .menu .c-4:hover {
+	background: #FADB40;
+}
+
+header .menu .c-5:hover {
+	background: #FD9D36;
+}
+
+.informacion {
+	background: #fff;
+	border-top: 5px solid #3da5e2;
+	padding: 0 20px;
+	margin-bottom: 10px;
+}
+
+.informacion .titulo {
+	padding: 40px 0;
+	text-align: center;
+	color: #3da5e2;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+
+
